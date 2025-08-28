@@ -1,0 +1,11 @@
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/pedra.png
+    - assets/papel.png
+    - assets/tesoura.png
+    - assets/padrao.png
+    - assets/icons8-vitória-48.png
+    - assets/icons8-perder-48.png
+    - assets/icons8-aperto-de-mãos-100.png
